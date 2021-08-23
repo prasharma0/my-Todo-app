@@ -1,0 +1,24 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "todo": "Go to Bed At 10 PM"
+    },
+    {
+      "todo": "Make Coffee",
+      "id": 2
+    },
+    {
+      "todo": "Turn Fan Off",
+      "id": 3
+    },
+    {
+      "todo": "Buy Some Fruits",
+      "id": 4
+    },
+    {
+      "todo": "Call Your Teacher",
+      "id": 5
+    }
+  ]
+}
